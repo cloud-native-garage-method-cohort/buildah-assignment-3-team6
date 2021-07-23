@@ -1,0 +1,15 @@
+/Users/oezguensi/workspace/dotnet-app/App/bin/Debug/net5.0/NetCore.Docker.deps.json
+/Users/oezguensi/workspace/dotnet-app/App/bin/Debug/net5.0/NetCore.Docker.runtimeconfig.json
+/Users/oezguensi/workspace/dotnet-app/App/bin/Debug/net5.0/NetCore.Docker.runtimeconfig.dev.json
+/Users/oezguensi/workspace/dotnet-app/App/bin/Debug/net5.0/NetCore.Docker.dll
+/Users/oezguensi/workspace/dotnet-app/App/bin/Debug/net5.0/ref/NetCore.Docker.dll
+/Users/oezguensi/workspace/dotnet-app/App/bin/Debug/net5.0/NetCore.Docker.pdb
+/Users/oezguensi/workspace/dotnet-app/App/obj/Debug/net5.0/NetCore.Docker.csproj.AssemblyReference.cache
+/Users/oezguensi/workspace/dotnet-app/App/obj/Debug/net5.0/NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oezguensi/workspace/dotnet-app/App/obj/Debug/net5.0/NetCore.Docker.AssemblyInfoInputs.cache
+/Users/oezguensi/workspace/dotnet-app/App/obj/Debug/net5.0/NetCore.Docker.AssemblyInfo.cs
+/Users/oezguensi/workspace/dotnet-app/App/obj/Debug/net5.0/NetCore.Docker.csproj.CoreCompileInputs.cache
+/Users/oezguensi/workspace/dotnet-app/App/obj/Debug/net5.0/NetCore.Docker.dll
+/Users/oezguensi/workspace/dotnet-app/App/obj/Debug/net5.0/ref/NetCore.Docker.dll
+/Users/oezguensi/workspace/dotnet-app/App/obj/Debug/net5.0/NetCore.Docker.pdb
+/Users/oezguensi/workspace/dotnet-app/App/obj/Debug/net5.0/NetCore.Docker.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+/Users/oezguensi/workspace/dotnet-app/App/bin/Release/net5.0/publish/NetCore.Docker.dll
+/Users/oezguensi/workspace/dotnet-app/App/bin/Release/net5.0/publish/NetCore.Docker.deps.json
+/Users/oezguensi/workspace/dotnet-app/App/bin/Release/net5.0/publish/NetCore.Docker.runtimeconfig.json
+/Users/oezguensi/workspace/dotnet-app/App/bin/Release/net5.0/publish/NetCore.Docker.pdb
